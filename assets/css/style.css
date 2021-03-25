@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 .beach-img {
     width: 100%;
@@ -10,4 +10,20 @@
 
 .elmina-img {
     width: 100%;
+}
+
+.logo {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 4rem;
+    width: 20%;
+    text-align: center;
+    margin-top: -65%;
+    margin-bottom: 55%;
+    margin-left: 35%; 
+    color: #fff;
+    border: 3px solid;
+    padding-top: 0%;
+    padding-bottom: 0%; 
+    white-space: nowrap;
 }
