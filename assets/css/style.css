@@ -15,12 +15,12 @@
 .logo {
     font-family: "Roboto", sans-serif;
     font-weight: 100;
-    font-size: 4rem;
+    font-size: 7rem;
     width: 20%;
     text-align: center;
     margin-top: -65%;
-    margin-bottom: 47%;
-    margin-left: 36%;
+    margin-bottom: 43%;
+    margin-left: 26%;
     color: #ffdcb1;
     border: 3px solid;
     padding-top: 0%;
@@ -51,14 +51,35 @@
   background-color: rgba(0,0,0, 0.3);
   color: rgba(255, 255, 255);
   font-size: 1rem;
-  /* padding: 12px 24px; */
   border: 3px solid white;
   cursor: pointer;
 }
 
-.about-btn:hover {
-    background: #ffdcb1;
-    border-color: #ffdcb1;
+.btn:hover {
+    background: rgb(187, 147, 2);
+    border-color: rgb(187, 147, 2);
+}
+
+.festival-btn {
+  position: absolute;
+  top: 170%;
+  left: 46%;
+  background-color: rgba(0,0,0, 0.6);
+  color: rgba(255, 255, 255);
+  font-size: 1.5rem;
+  border: 3px solid white;
+  cursor: pointer;
+}
+
+.elmina-btn {
+  position: absolute;
+  top: 270%;
+  left: 46%;
+  background-color: rgba(0,0,0, 0.6);
+  color: rgba(255, 255, 255);
+  font-size: 1.5rem;
+  border: 3px solid white;
+  cursor: pointer;
 }
 
 .btn-outline-primary {
