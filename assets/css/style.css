@@ -50,7 +50,7 @@
 
 .about-btn {
   position: absolute;
-  top: 50%;
+  top: 20%;
   left: 46%;
   background-color: rgba(0,0,0, 0.3);
   color: rgba(255, 255, 255);
@@ -115,13 +115,29 @@
 
 .about-logo {
     font-family: "Roboto", sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 3rem;
     width: 20%;
     text-align: center;
-    margin-top: 40%;
+    margin-top: 10%;
     margin-bottom: 43%;
-    margin-left: 206%;
+    margin-left: 40%;
     color: rgb(187, 147, 2);
     white-space: nowrap;
+}
+
+.about-title {
+    margin-top: -35%;
+    font-weight: 150;
+}
+
+.friends-img {
+    margin-top: 3%;
+}
+
+.about-us {
+    margin-top: 3%;
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 10%;
 }
