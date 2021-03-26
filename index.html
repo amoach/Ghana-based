@@ -14,13 +14,12 @@
    <body>
        <!-- navbar -->
        <header class="header">
-           <div class="container-fluid text-center">
-               <div class="row">
-                   <div class="col-xs-12">
-                       <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                        <div class="container-fluid">
+           <div class="container-fluid">
+               <!-- <div class="row">
+                   <div class="col-xs-12 col-md-12 col-lg-12 no-gutter"> -->
+                       <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top">
                             <a class="navbar-brand" href="#"></a>
-                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                            <button class="navbar-toggler ml-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                             </button>
                             <div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -29,14 +28,14 @@
                                 <a class="nav-link active" aria-current="page" href="#">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                <a class="nav-link" href="#">About</a>
+                                <a class="nav-link" href="about.html">About</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Experiences</a>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                    <li><a class="dropdown-item" href="#">Festivals</a></li>
-                                    <li><a class="dropdown-item" href="#">Aburi</a></li>
-                                    <li><a class="dropdown-item" href="#">Elmina</a></li>
+                                    <li><a class="dropdown-item" href="festivals.html">Festivals</a></li>
+                                    <li><a class="dropdown-item" href="aburi.html">Aburi</a></li>
+                                    <li><a class="dropdown-item" href="elmina.html">Elmina</a></li>
                                 </ul>
                                 </li>
                                 <li class="nav-item">
@@ -57,10 +56,10 @@
        <main>
         <div class="container-fluid text-center">
             <div class="row">
-                <div class="col-xs-12">
+                <div class="col-12">
                     <div class="beach">
-                        <img class="beach-img" src="assets/images/ghana-beach-sml.jpg" alt="Ghana Beach"/>
-                        <h1 class="logo">Ghana based.</h1>
+                        <img class="beach-img img-fluid" src="assets/images/ghana-beach-sml.jpg" alt="Ghana Beach"/>
+                        <h1 class="home-logo logo">Ghana based.</h1>
                         <h2 class="home-about">your guide to your next Ghanaian experience</h2>
                         <a class="btn btn-outline-primary about-btn" href="about.html" role="button">about us</a>	                    
                     </div>
@@ -78,34 +77,38 @@
        </main>
 
        <footer>
-        <div class="col-sm-4">
-            <ul class="list-inline social-links nowrap">
-               <li class="list-inline-item">
-                  <a target="_blank" href="https://www.facebook.com/">
-                  <i class="fa fa-facebook" aria-hidden="true"></i>
-                  <span class="sr-only">Facebook</span>
-                  </a>
-               </li>
-               <li class="list-inline-item">
-                  <a target="_blank" href="https://www.instagram.com/">
-                  <i class="fa fa-instagram" aria-hidden="true"></i>
-                  <span class="sr-only">Instagram</span>
-                  </a>
-               </li>
-               <li class="list-inline-item">
-                  <a target="_blank" href="https://www.youtube.com/">
-                  <i class="fa fa-youtube" aria-hidden="true"></i>
-                  <span class="sr-only">Youtube</span>
-                  </a>
-               </li>
-               <li class="list-inline-item">
-                  <a target="_blank" href="https://www.twitter.com/">
-                  <i class="fa fa-twitter" aria-hidden="true"></i>
-                  <span class="sr-only">Twitter</span>
-                  </a>
-               </li>
-            </ul>
-         </div>
+           <div class="container">
+               <div class="row">
+                    <div class="col-sm-4">
+                        <ul class="list-inline social-links nowrap">
+                        <li class="list-inline-item">
+                            <a target="_blank" href="https://www.facebook.com/">
+                            <i class="fa fa-facebook" aria-hidden="true"></i>
+                            <span class="sr-only">Facebook</span>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a target="_blank" href="https://www.instagram.com/">
+                            <i class="fa fa-instagram" aria-hidden="true"></i>
+                            <span class="sr-only">Instagram</span>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a target="_blank" href="https://www.youtube.com/">
+                            <i class="fa fa-youtube" aria-hidden="true"></i>
+                            <span class="sr-only">Youtube</span>
+                            </a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a target="_blank" href="https://www.twitter.com/">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                            <span class="sr-only">Twitter</span>
+                            </a>
+                        </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
        </footer>
 
        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

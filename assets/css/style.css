@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 .beach-img {
-    width: 100%;
+    max-width: 100%;
 }
 
 .festival-img {
@@ -12,7 +12,11 @@
     width: 100%;
 }
 
-.logo {
+/* .img-fluid {
+    max-width: 100%;
+} */
+
+.home-logo {
     font-family: "Roboto", sans-serif;
     font-weight: 100;
     font-size: 7rem;
@@ -94,7 +98,6 @@
     border-radius: 50%;
     border: 1px solid rgb(187, 147, 2);
     font-size: 1rem;
-    /* line-height: 7px; */
     text-align: center;
     color: white;
     background: rgb(187, 147, 2);
@@ -108,4 +111,17 @@
 .social-links li a i:hover {
     background: #ffdcb1;
     color: rgb(187, 147, 2);
+}
+
+.about-logo {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 3rem;
+    width: 20%;
+    text-align: center;
+    margin-top: 40%;
+    margin-bottom: 43%;
+    margin-left: 206%;
+    color: rgb(187, 147, 2);
+    white-space: nowrap;
 }
