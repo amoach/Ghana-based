@@ -223,3 +223,33 @@
     background-color: #fff;
     color: rgb(187, 147, 2);
 }
+
+.social-links {
+    margin-top: -10%;
+    margin-left: 270%;
+    white-space: nowrap;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    border: 1px solid #8A6C00;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: white;
+    background: #8A6C00;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links-fst {
+    margin-left: 190%;
+    margin-top: 10%;
+}
