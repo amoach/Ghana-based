@@ -212,3 +212,14 @@
 .paym-fst {
     margin-top: -5%;
 }
+
+.btn-fst {
+    background: rgb(187, 147, 2);
+    border: 3px solid rgb(187, 147, 2);
+    border-color: rgb(187, 147, 2);
+}
+
+.btn-fst:hover {
+    background-color: #fff;
+    color: rgb(187, 147, 2);
+}
