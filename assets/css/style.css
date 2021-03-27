@@ -173,7 +173,7 @@
 }
 
 .headline-fst {
-    margin-top: 10%;
+    margin-top: 9%;
     margin-left: -5%;
     font-weight: 100;
     width: 110%
@@ -200,6 +200,15 @@
 .img-fst3 {
     margin-left: -20%;
     width: 115%;
-    margin-top: 5%;
+    margin-top: 3%;
 }
 
+.paym-hdr-fst {
+    font-weight: 100;
+    font-size: 1.5rem;
+    margin-top: 3%;
+}
+
+.paym-fst {
+    margin-top: -5%;
+}
