@@ -188,10 +188,18 @@
 .img-fst2 {
     margin-left: -20%;
     width: 115%;
+    margin-top: 5%;
 }
 
 .itinerary-header-fst {
     font-weight: 100;
     font-size: 1.5rem;
-    margin-left: ;
+    margin-top: 5%;
 }
+
+.img-fst3 {
+    margin-left: -20%;
+    width: 115%;
+    margin-top: 5%;
+}
+
