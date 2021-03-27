@@ -145,3 +145,22 @@
     margin-left: 10%;
     margin-bottom: 10%;
 }
+
+.festival-logo {
+    font-family: "Roboto", sans-serif;
+    color: rgb(187, 147, 2);
+    margin-top: 10%;
+    font-weight: 300;
+    font-size: 3rem;
+    width: 20%;
+    text-align: center;
+    white-space: nowrap;
+    margin-top: 20%;
+    margin-left: 70%;
+}
+
+.festival-title {
+    margin-top: 20%;
+    margin-left: 130%;
+    font-weight: 150;
+}
