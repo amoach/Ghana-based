@@ -165,8 +165,22 @@
     font-weight: 150;
 }
 
-.festival1-img {
-    width: 120%;
-    height: 100%;
+.img-fst1 {
+    width: 115%;
+    height: 85%;
     margin-left: -20%;
+    margin-top: 10%;
+}
+
+.headline-fst {
+    margin-top: 10%;
+    margin-left: -5%;
+    font-weight: 100;
+    width: 110%
+}
+
+.about-fst {
+    width: 110%;
+    margin-left: -5%;
+    margin-top: 5%;
 }
