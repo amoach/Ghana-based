@@ -156,37 +156,37 @@
     text-align: center;
     white-space: nowrap;
     margin-top: 20%;
-    margin-left: 70%;
+    margin-left: 80%;
 }
 
 .festival-title {
     margin-top: 20%;
-    margin-left: 130%;
+    margin-left: 147%;
     font-weight: 150;
 }
 
 .img-fst1 {
     width: 115%;
     height: 85%;
-    margin-left: -20%;
+    margin-left: -10%;
     margin-top: 10%;
 }
 
 .headline-fst {
     margin-top: 9%;
-    margin-left: -5%;
+    margin-left: 5%;
     font-weight: 100;
     width: 110%
 }
 
 .about-fst {
     width: 110%;
-    margin-left: -5%;
+    margin-left: 5%;
     margin-top: 5%;
 }
 
 .img-fst2 {
-    margin-left: -20%;
+    margin-left: -10%;
     width: 115%;
     margin-top: 5%;
 }
@@ -195,10 +195,15 @@
     font-weight: 100;
     font-size: 1.5rem;
     margin-top: 5%;
+    margin-left: 10%;
+}
+
+.itinerary-fst {
+    margin-left: 10%;
 }
 
 .img-fst3 {
-    margin-left: -20%;
+    margin-left: -10%;
     width: 115%;
     margin-top: 3%;
 }
@@ -207,16 +212,19 @@
     font-weight: 100;
     font-size: 1.5rem;
     margin-top: 3%;
+    margin-left: 10%;
 }
 
 .paym-fst {
     margin-top: -5%;
+    margin-left: 10%;
 }
 
 .btn-fst {
     background: rgb(187, 147, 2);
     border: 3px solid rgb(187, 147, 2);
     border-color: rgb(187, 147, 2);
+    margin-left: 10%; 
 }
 
 .btn-fst:hover {
@@ -225,8 +233,6 @@
 }
 
 .social-links {
-    margin-top: -10%;
-    margin-left: 270%;
     white-space: nowrap;
     padding-bottom: 0px;
     margin-bottom: 10px;
@@ -253,3 +259,4 @@
     margin-left: 190%;
     margin-top: 10%;
 }
+
