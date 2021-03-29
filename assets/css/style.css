@@ -5,15 +5,16 @@
 }
 
 .beach-img {
-    max-width: 100%;
+    width: 100vw;
+    /* padding-bottom: 10; */
 }
 
 .festival-img {
-    width: 100%;
+    width: 98vw;
 }
 
 .elmina-img {
-    width: 100%;
+    width: 98vw;
 }
 
 /* .img-fluid {
@@ -23,28 +24,24 @@
 .home-logo {
     font-family: "Roboto", sans-serif;
     font-weight: 100;
-    font-size: 7rem;
-    width: 20%;
+    font-size: 12vw;
+    /* width: 20%; */
     text-align: center;
     margin-top: -55%;
-    margin-bottom: 33%;
-    margin-left: 26%;
+    margin-bottom: 20%;
+    /* margin-left: 26%; */
     color: #ffdcb1;
-    border: 3px solid;
-    padding-top: 0%;
-    padding-bottom: 0%; 
     white-space: nowrap;
 }
 
 .home-about {
     font-family: "Roboto", sans-serif;
     font-weight: 50;
-    font-size: 1.5rem;
-    width: 20%;
+    font-size: 2vw;
     text-align: center;
     margin-top: -32%;
     margin-bottom: 40%;
-    margin-left: 33%;
+    /* margin-left: 33%; */
     color: #fff;
     border: 3px solid;
     padding-top: 0%;
@@ -105,7 +102,7 @@
     text-align: center;
     color: white;
     background: rgb(187, 147, 2);
-    margin-left: 700%;
+    /* margin-left: 700%; */
     /* transition: all 0.35s ease-in-out; 
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
