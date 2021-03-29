@@ -102,6 +102,10 @@
     color: rgb(187, 147, 2);
 }
 
+.about-bg {
+    background-image: url("../images/palms.jpg");
+}
+
 .about-logo {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
@@ -128,7 +132,7 @@
     margin-top: 3%;
     width: 80%;
     margin-left: 10%;
-    margin-bottom: 30%;
+    margin-bottom: 20%;
 }
 
 .festival-logo {
