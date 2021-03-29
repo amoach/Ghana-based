@@ -151,23 +151,25 @@
 }
 
 .img-fst1 {
-    width: 115%;
+    width: 110%;
     height: 85%;
-    margin-left: -10%;
+    margin-left: -13%;
     margin-top: 10%;
 }
 
 .headline-fst {
     margin-top: 9%;
-    margin-left: 5%;
+    margin-left: -3%;
     font-weight: 100;
-    width: 110%
+    width: 110%;
+    text-align: center;
 }
 
 .about-fst {
     width: 110%;
     margin-left: 5%;
     margin-top: 5%;
+    text-align: center;
 }
 
 .img-fst2 {
@@ -181,10 +183,12 @@
     font-size: 1.5rem;
     margin-top: 5%;
     margin-left: 10%;
+    text-align: center;
 }
 
 .itinerary-fst {
     margin-left: 10%;
+    text-align: center;
 }
 
 .img-fst3 {
@@ -198,11 +202,13 @@
     font-size: 1.5rem;
     margin-top: 3%;
     margin-left: 10%;
+    text-align: center;
 }
 
 .paym-fst {
     margin-top: -5%;
     margin-left: 10%;
+    text-align: center;
 }
 
 .btn-fst {
