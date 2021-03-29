@@ -144,7 +144,7 @@
 
 .img-fst1 {
     width: 115%;
-    height: 85%;
+    height: 105%;
     margin-left: -10%;
     margin-top: 10%;
 }
@@ -169,6 +169,7 @@
     margin-left: -10%;
     width: 115%;
     margin-top: 5%;
+    height: 105%;
 }
 
 .itinerary-header-fst {
@@ -189,6 +190,7 @@
     margin-left: -10%;
     width: 115%;
     margin-top: 3%;
+    height: 105%;
 }
 
 .paym-hdr-fst {
@@ -243,7 +245,8 @@
 
 .social-links-fst {
     /* margin-left: 190%; */
-    margin-top: 10%;
+    margin-top: 20%;
+    margin-bottom: 10%;
 }
 
 .home-social-links {
@@ -329,7 +332,7 @@
     }
 }
 
-@media(max-width: 880px) {
+@media(max-width: 786px) {
 .img-fst1 {
     height: 40vw;
     margin-top: 50%;
@@ -343,5 +346,30 @@
 .img-fst3 {
     height: 40vw;
     margin-top: 30%;
+}
+}
+
+@media(max-width: 375px) {
+.img-fst1 {
+    height: 80vw;
+    margin-top: 30%;
+}
+
+.img-fst2 {
+    height: 80vw;
+    margin-top: 27%;
+}
+
+.img-fst3 {
+    height: 80vw;
+    margin-top: 30%;
+}
+
+.festival-logo {
+    font-size: 12vw;
+}
+
+.festival-title {
+    margin-left: 35%;
 }
 }
