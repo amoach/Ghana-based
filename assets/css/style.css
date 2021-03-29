@@ -129,7 +129,6 @@
     margin-top: 10%;
     font-weight: 300;
     font-size: 8vw;
-    /* width: 20%; */
     text-align: center;
     white-space: nowrap;
     margin-top: 20%;
@@ -151,7 +150,6 @@
 
 .headline-fst {
     margin-top: 9%;
-    /* margin-left: -1%; */
     font-weight: 100;
     width: 110%;
     text-align: center;
@@ -160,7 +158,6 @@
 
 .about-fst {
     width: 100%;
-    /* margin-left: 2%; */
     margin-top: 5%;
     text-align: center;
 }
@@ -182,7 +179,6 @@
 }
 
 .itinerary-fst {
-    /* margin-left: 10%; */
     text-align: center;
 }
 
@@ -203,7 +199,6 @@
 
 .paym-fst {
     margin-top: -5%;
-    /* margin-left: 10%; */
     text-align: center;
 }
 
@@ -237,14 +232,9 @@
     text-align: center;
     color: white;
     background: #8A6C00;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
 }
 
 .social-links-fst {
-    /* margin-left: 190%; */
     margin-top: 20%;
     margin-bottom: 10%;
 }
