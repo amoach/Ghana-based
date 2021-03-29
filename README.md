@@ -1,7 +1,8 @@
 # Ghana-based
 ## Code Institute: Milestone Project 1 - Amanda Achampong
 
-![Devices](file:///Users/amoach/Desktop/screens.png)
+![screens](https://user-images.githubusercontent.com/70138332/112828803-1bb91b00-9088-11eb-90d1-eadf73b87a1b.png)
+
 
 ---
 Ghana based. Experiences is a booking agent specifically for Ghana, in order for those wanting to book things to do
@@ -85,8 +86,9 @@ See the live version here:
 
 #### User Objectives
 
-- Engage with anyone visiting Ghana looking for new experiences and activities to do in Ghana
+- Engage with anyone visiting Ghana looking for new experiences and activities to do in Ghana.
 - Users can contact for a bespoke experience according to their reason for booking.
+- Educate user on what there is to do in Ghana and in turn inspire.
 
 #### Project Goals
 
@@ -117,13 +119,13 @@ See the live version here:
 
 * Homepage has images with buttons in order to navigate the relevant pages according to the images and these include about, contact, festivals and elmina.
 
-* Fixed responsive hamburger navbar at the top left of each page contains links to all pages. The 'Experiences' section also has a dropdown when clicked and the different experiences can be accessed on all pages. The navbar has a contrasting colour depending on the page and collaspsible. It also floats on mobile devices as you scroll and menu also then takes up the full width of the screen.
+* Fixed responsive navbar on each page contains links to all pages. The 'Experiences' section also has a dropdown when clicked and the different experiences can be accessed on all pages. It also floats on mobile devices as you scroll and menu also then takes up the full width of the screen.
 
 #### Home
 
-* The Homepage has button features which enables you to navigate four different pages, along with the navbar at top left side:
+* The Homepage has button features which enables you to navigate three different pages, along with the navbar at top left side:
 
-    1. First image is of Cape coast beach with buttons to take you to the the about and contact pages. Image was taken from here: (https://unsplash.com/photos/OOOLSgre3RE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+    1. First image is of Cape coast beach with buttons to take you to the the about page. Image was taken from here: (https://unsplash.com/photos/OOOLSgre3RE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
     2. The second image is one of Afronation festival with a button at the center which will take you to the festivals page. Image was taken from here: (https://unsplash.com/photos/cUUvJlhiceU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
     3. The third image is of Elmina castle door with a centered button that takes you to the Elmina page. Image was taken from here: (https://unsplash.com/photos/EoJ8bZnQOmk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
@@ -132,8 +134,8 @@ See the live version here:
 * The about us page consists of two sections:
 
     1. The first you have a polaroid like photo of the founders - which I own the rights to.
-
     2. The next section is all the relevant information of the aims of Ghana based experiences sets out to achieve
+    3. The background image is a photograph of a fisherman village in Ada, Ghana. Image was taken from here: (https://unsplash.com/photos/EoT_Ut_cj_Q)
 
 #### Festivals
 
@@ -151,46 +153,14 @@ See the live version here:
     2. Second image of Elmina castle door. Image was taken from here: (https://unsplash.com/photos/r6Wy1qSuFnA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
     3. Third image of Akwidaa, Ghana. Image was taken from here: (https://unsplash.com/photos/XOdKX5WtPTc)
 
-#### Aburi
+#### Inspirations
 
-* The page is sectioned off to 2 columns with the photos on the left side and text on the right. User is then able to access the contact page and book that experience by clicking the 'BOOK' button beneath the text.
-
-    1. First image of Aburi. Image was taken from (https://unsplash.com/photos/THf0OqViF_g?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-    2. Second image quadbiking. Image was taken from (https://unsplash.com/photos/UAHzPAX1gK8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-
-#### Gallery
-
-* The Gallery page features a video and 10 images
-
-    1. First section is a brief description of the gallery page.
-    
-    2. Video of some things to expect in Ghana to give some inspiration on things to do as well as what Ghana based. experiences also offers. Video was taken from [here.] (https://www.youtube.com/watch?v=z9zuWgLA3QU&feature=emb_logo)
-
-    3. First image of Ghana, Awutu. Image was taken from here:
-    (https://unsplash.com/photos/6E_Pz__nkMA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-
-    4. Second image of food from a Ghanaian restaurant. Image was taken from here: (https://unsplash.com/photos/fcbtZwnkyGE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-
-    5. Third image of Ghanaian savannah. Image was taken from here: (https://unsplash.com/photos/m66ds2HkPpQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-
-    6. Fourth image of silhouette of boy. Image was taken from here: (https://unsplash.com/photos/dX2viJZtvuw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-
-    7. Fifth image of woman selling goods carried on her head. Image was taken from here: (https://unsplash.com/photos/TqYS0r5lt9g?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-
-    8. Sixth image of Elmina castle in black and white. Image was taken from here: (https://unsplash.com/photos/EoJ8bZnQOmk?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-
-    9. Seventh image of boy on horse. Image was taken from here: (https://unsplash.com/photos/ZWw0jWpcsIA?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-
-    10. Eighth image of edited black star gate. Image was taken from here: (https://www.thea-blast.org/international/2019/05/31/going-through-ghanas-black-star-gate/)
-
-    11. Ninth image of Akwidaa, Ghana. Image was taken from here: (https://unsplash.com/photos/XOdKX5WtPTc)
-
-    12. Tenth image of Ghanaian architecture. Image was taken from here: (https://unsplash.com/photos/Rsh_aEaJC5k?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
-
+* Built with an external link to a Youtube video by Visit Ghana. With the intention for the user to see moving images and a summary of to expect on your visit to Ghana.
 
 #### Contact
 
-* Contact page consists of the logo header, image background and contact form with required fields.
+1. Contact page consists of the logo header, image background and contact form with required fields.
+2. The background image is a photograph of a fisherman village in Ada, Ghana. Image was taken from here: (https://unsplash.com/photos/EoT_Ut_cj_Q)
 
 
 ## Wireframe designs
@@ -199,19 +169,18 @@ See the live version here:
 
 * The screenshots were taken from a desktop screen of 1183px x 821px
 
-![Homepage](https://user-images.githubusercontent.com/70138332/105375248-78b7d100-5c00-11eb-8f27-6f883c835986.jpg)
+![HOMEPAGE](https://user-images.githubusercontent.com/70138332/112832181-d9dea380-908c-11eb-9fa6-8ec537e70034.jpg)
 
-![About us page](https://user-images.githubusercontent.com/70138332/105375784-ebc14780-5c00-11eb-9125-3b6c49dfcca1.jpg)
+![ABOUT PAGE](https://user-images.githubusercontent.com/70138332/112832377-23c78980-908d-11eb-8a20-d28a853178a4.jpg)
 
-![Festival page](https://user-images.githubusercontent.com/70138332/105375775-e95eed80-5c00-11eb-8181-c5ba1ab49ff9.jpg)
+![FESTIVALS PAGE](https://user-images.githubusercontent.com/70138332/112832520-570a1880-908d-11eb-8c80-b59c7b0d6981.jpg)
 
-![Elmina page](https://user-images.githubusercontent.com/70138332/105375768-e663fd00-5c00-11eb-804a-3574c392b778.jpg)
+![ELMINA PAGE](https://user-images.githubusercontent.com/70138332/112832637-81f46c80-908d-11eb-9a99-7d0ed13d65f6.jpg)
 
-![Aburi page](https://user-images.githubusercontent.com/70138332/105375725-dea45880-5c00-11eb-9eb9-e86122fa8b3e.jpg)
+![INSPIRATION](https://user-images.githubusercontent.com/70138332/112832800-bc5e0980-908d-11eb-88fd-e848168c0812.jpg)
 
-![Gallery page](https://user-images.githubusercontent.com/70138332/105375755-e401a300-5c00-11eb-96af-4e35087b756b.jpg)
+![CONTACT](https://user-images.githubusercontent.com/70138332/112832752-ad775700-908d-11eb-9145-7b3720a85d4f.jpg)
 
-![Contact page](https://user-images.githubusercontent.com/70138332/105375745-e2d07600-5c00-11eb-8bc3-958d9651af7a.jpg)
 
 ## Responsive Design
 
@@ -224,17 +193,20 @@ This required me to decide how best the content should be displayed on smaller d
 
 Colour Palette - I chose three colours which were either taken from the photos used on the website or just one I thought would work well with the theme and be complimentary to the overall look. I also ensured there was continuity throughout the site.
 
-- ![#4d6871](https://via.placeholder.com/15/4d6871/000000?text=+) `#4d6871` - Button hover
-- ![#8A6C00](https://via.placeholder.com/15/8A6C00/000000?text=+) `#8A6C00` - Logo, body text, social media buttons and contact form
-- ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`- Homepage logo, buttons and social media button logos
+- ![dummy_20x20__BB9302](https://user-images.githubusercontent.com/70138332/112834978-92f2ad00-9090-11eb-9380-a49b26a12051.png) `RGB(187, 147, 2)` - Buttons
+- ![#8A6C00](https://via.placeholder.com/15/8A6C00/000000?text=+) `#8A6C00` - buttons hover
+- ![dummy_20x20__111](https://user-images.githubusercontent.com/70138332/112835917-d26dc900-9091-11eb-8bc5-e1961b3f97e1.png) `#000` -Text
+- ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`-  Button text and social media button logos
+- ![dummy_20x20__ffdcb1](https://user-images.githubusercontent.com/70138332/112835245-ecf37280-9090-11eb-9513-a56f11b70407.png) `#ffdcb1` -Homepage logo, buttons hover
+
 
 There were also greys used for some things like the background overlay of home buttons and text of navbar dropdown menu.
 
 ### Nav Bar
 
-* Collaspsible hamburger navbar from bootstrap is used across the site across all devices
+* Navbar with a dropdown menu featuring the experiences on offer, which all collapses into a hamburger version on mobile screens
 
-* Fixed at the top left corner as the default position users are familiar in navigating. Created to float and scroll along as the user scrolls down the page for easy access to the menu regardless where they are on the page.
+* Fixed at the top as the default position users are familiar in navigating. Created to float and scroll along as the user scrolls down the page for easy access to the menu regardless where they are on the page.
 
 
 ### Contact Information
@@ -263,22 +235,7 @@ There were also greys used for some things like the background overlay of home b
 * [w3 html validator](https://validator.w3.org/) - used to validate my html code.
 * [w3 css validator](https://jigsaw.w3.org/) - used to validate my css code.
 
-## Testing Features
-**
-    * The navbar was tested to collapse as well as with the dropdown menu.
-    * Different screen sizes were looked at in order to see how the responsiveness is on different devices.
-    * Nav links were tested to ensure they were being correctly linked to the intended external sites.
-    * Friend was also asked to preview the site on his xl screen and iphone 5 device.
-
-## Testing responsiveness
-
-- Using Google Chrome Dev Tools all pages were viewed in the responsive setting to display various screen sizes. 
-
-## Testing different browsers
-
-I tested the website on the following web browsers:
-- Google Chrome 
-- Mozilla Firefox 
+## Testing 
 
 ## Validating the HTML and CSS code
 
@@ -288,15 +245,49 @@ All of my code passed the following validation tests:
 
 Screenshots of validations for each page of code can be found [here](https://github.com/jamie120/ms1_d_r_plastering/blob/master/assets/images/testing)
 
+### Testing Features
+**
+    * The navbar was tested to collapse as well as with the dropdown menu also the responsiveness in mobile view as a hamburger.
+    * Different screen sizes were looked at in order to see how the responsiveness is on different devices.
+    * Nav links were tested to ensure they were being correctly linked to the intended internal and external sites.
+    * Friend was also asked to preview the site on his xl screen and iphone 5 device.
+
+### Testing responsiveness
+
+- Using Google Chrome Dev Tools all pages were viewed in the responsive setting to display various screen sizes. 
+
+### Testing different browsers
+
+I tested the website on the following web browsers:
+- Google Chrome 
+- Mozilla Firefox 
+
+##Testing User Stories from User Experience (UX) Section
+
+* First Time Visitor Goals
+- As a first time vistor, it essential to understand the reason the site was created and what the intentions for the user are within seconds of landing on the page.
+- With the content of the navbar text clearly fixed at the top also made it easy to navigate from page to page.
+- User sees images taken in Ghana which ties into the theme of the site. As if you are having a preview of what to expect on your visit with a gallery like format, high quality photos.
+- Short caption under the logo straight to the point and outlines the purpose of the site.
+- The user also has options on the homepage, they can leave the page via the buttons linked to the other pages or you can continue scrolling down for more features but also navigate from the fixed navbar.
+- Visitor also intially has the option to find out the intention of the site by simply clicking the about button located right of the page purposely to catch the users' attention immediately
+
+* Returning Visitor Goals 
+- As a returning visitor I would expect more experiences added over time to encourage me to explore Ghana more.
+- It is essential a returning visitor finds it easy to find the answers they are looking for otherwise be able to simply contact the company. This can be done by filling out a form on the contact page.
+- The footer also contains buttons which link to social media pages in order to expand on their knowledge of the company.
+
+* Frequent User Goals
+- A frequent user would want this to be an ongoing community being built without limitations. This could include facebook groups, local meetups in cities internationally.
+- This can all be enquired via the contact page submitting a form and staying in the loop about new advances with Ghana Based.
+
 ## Issues 
 
-* There were various HTML validation issues to resolve. These mainly referred to formatting my code and were easily fixable across the site.
+* Making the site responsive to the different screen sizes initially with bootstrap which helped with the bulk of it, and different media queries were created to
 
-* Making the site responsive to the different screen sizes turned out to be difficult and not fully executed in the end. In order to tackle this I added various different media queries in the css.
+* There were some errors which arose in the HTML and CSS validators which were mostly rectified.
 
-* There are some overflow issues especially when it comes to the different screen sizes. This was attempted to be fixed by adjusting margins and implementing bootstrap, however due to lack of time, was not fully executed.
-
-* Nav Bar was very difficult to get styled and working as it is now. Tutor support, heavily relying on devtools and taking on various techniques, that was fixed and was able to function and styled in the desired way. 
+*  
 
 
 # Deployment
@@ -318,8 +309,11 @@ I am responsible for all content and code written.
 * [W3C](https://www.w3.org/)
 * [Stack overflow](https://stackoverflow.com/)
 * [W3schools](https://www.w3schools.com/)
+* [Free Formatter] (https://www.freeformatter.com/)
+* [CSS Validation] (https://jigsaw.w3.org/css-validator/)
+* [HTML Validation] (https://validator.w3.org/)
 
 
 #### Support
-   * Seun Owonikoko (my mentor) and Aaron Sinnott (temp mentor)
+   * Aaron Sinnott (mentor)
    * Code Institute (tutors)
