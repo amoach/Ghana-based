@@ -5,7 +5,7 @@
 }
 
 .beach-img {
-    width: 200vw;
+    width: 100vw;
     height: 80vw;
 }
 
@@ -136,17 +136,17 @@
     color: rgb(187, 147, 2);
     margin-top: 10%;
     font-weight: 300;
-    font-size: 3rem;
+    font-size: 8vw;
     width: 20%;
     text-align: center;
     white-space: nowrap;
     margin-top: 20%;
-    margin-left: 80%;
+    margin-left: 40%;
 }
 
 .festival-title {
     margin-top: 20%;
-    margin-left: 147%;
+    /* margin-left: 130%; */
     font-weight: 150;
 }
 
@@ -241,7 +241,7 @@
 }
 
 .social-links-fst {
-    margin-left: 190%;
+    /* margin-left: 190%; */
     margin-top: 10%;
 }
 
