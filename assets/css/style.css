@@ -36,7 +36,7 @@
     font-size: 3vw;
     text-align: center;
     margin-top: -33%;
-    margin-bottom: 30%;
+    margin-bottom: 55%;
     color: #fff;
     border: 3px solid;
     white-space: nowrap;
@@ -44,7 +44,7 @@
 
 .about-btn {
   position: absolute;
-  top: 70%;
+  top: 50%;
   left: 43%;
   background-color: rgba(0,0,0, 0.3);
   color: rgba(255, 255, 255);
@@ -122,6 +122,8 @@
 .about-title {
     margin-top: -35%;
     font-weight: 150;
+    font-size: 6vw;
+    color: #fff;
 }
 
 .friends-img {
@@ -142,16 +144,25 @@
     margin-top: 10%;
     font-weight: 300;
     font-size: 8vw;
-    width: 20%;
+    /* width: 20%; */
     text-align: center;
     white-space: nowrap;
     margin-top: 20%;
-    margin-left: 23%;
+    margin-left: 2%;
+
+    /* font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 12vw;
+    text-align: center;
+    margin-top: -80%;
+    margin-bottom: 30%;
+    color: #ffdcb1;
+    white-space: nowrap; */
 }
 
 .festival-title {
     margin-top: 20%;
-    /* margin-left: 95%;  */
+    margin-left: 45%; 
     font-weight: 150;
 }
 
@@ -270,6 +281,21 @@
     width: 115%;
 }
 
+.itinerary-header-elm {
+    margin-top: 20%;
+    font-weight: 100;
+    font-size: 1.5rem;
+    margin-top: 5%;
+    margin-left: 3%;
+    text-align: center;
+    width: 100%;
+}
+
+.itinerary-elm {
+    text-align: center;
+    margin-top: 10%;
+}
+
 .img-elm3 {
     margin-top: -3%;
     margin-left: -10%;
@@ -279,7 +305,7 @@
 .contact-info {
     margin-top: 10%;
     width: 80%;
-    margin-left: 10%;
+    margin-left: 9%;
     font-size: 3vw;
     font-weight: 150;
     color: #fff;
@@ -315,4 +341,14 @@
 
 .contact-social-links {
     margin-top: 100%;
+}
+
+@media(max-width: 480px) {
+    .about-title {
+        color: black;
+    }
+
+    .contact-info {
+        color: black;
+    }
 }
