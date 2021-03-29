@@ -263,9 +263,12 @@
 }
 
 .contact-info {
-    margin-top: -10%;
+    margin-top: 10%;
     width: 80%;
     margin-left: 10%;
+    font-size: 3vw;
+    font-weight: 150;
+    color: #fff;
 }
 
 .form-control {
@@ -274,6 +277,9 @@
     margin-left: 19%;
     width: 60%;
     background-color: rgb(255 255 255 / 0.8);
+}
+.booking {
+    height: 20%;
 }
 
 .btn-book {
@@ -288,3 +294,6 @@
     background: #8A6C00;
 }
 
+.contact-social-links {
+    margin-top: 300%;
+}
