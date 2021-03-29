@@ -243,7 +243,7 @@ All of my code passed the following validation tests:
 - HTML: [W3C Markup Validation Service](https://validator.w3.org/)
 - CSS: [W3C Markup Validation Service](https://jigsaw.w3.org/css-validator/)
 
-Screenshots of validations for each page of code can be found [here](https://github.com/jamie120/ms1_d_r_plastering/blob/master/assets/images/testing)
+Screenshots of validations for each page of code can be found [here](https://github.com/amoach/Ghana-based/tree/main/assets/images/testing)
 
 ### Testing Features
 **
@@ -287,12 +287,12 @@ I tested the website on the following web browsers:
 
 * There were some errors which arose in the HTML and CSS validators which were mostly rectified.
 
-*  
+* The CSS errors were not as they were issues it was perceived but is actually a part of styling the font.
 
 
 # Deployment
 
-* The site was coded in GitPod and then pushed onto GitHub repository - [REPO](https://github.com/jamie120/ms1_d_r_plastering)
+* The site was coded in GitPod and then pushed onto GitHub repository - [REPO]
     * The following GIT commands were used throughout deployment:
         * **git status** - to identify any changes yet to be commited.
         * **git add .** - to stage files ready to commit.
