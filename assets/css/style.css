@@ -24,7 +24,7 @@
     font-weight: 100;
     font-size: 12vw;
     text-align: center;
-    margin-top: -60%;
+    margin-top: -80%;
     margin-bottom: 30%;
     color: #ffdcb1;
     white-space: nowrap;
@@ -128,7 +128,7 @@
     margin-top: 3%;
     width: 80%;
     margin-left: 10%;
-    margin-bottom: 10%;
+    margin-bottom: 30%;
 }
 
 .festival-logo {
@@ -153,7 +153,7 @@
 .img-fst1 {
     width: 115%;
     height: 85%;
-    margin-left: -13%;
+    margin-left: -10%;
     margin-top: 10%;
 }
 
@@ -166,8 +166,8 @@
 }
 
 .about-fst {
-    width: 110%;
-    margin-left: 5%;
+    width: 103%;
+    /* margin-left: 2%; */
     margin-top: 5%;
     text-align: center;
 }
@@ -182,12 +182,12 @@
     font-weight: 100;
     font-size: 1.5rem;
     margin-top: 5%;
-    margin-left: 10%;
+    margin-left: 3%;
     text-align: center;
 }
 
 .itinerary-fst {
-    margin-left: 10%;
+    /* margin-left: 10%; */
     text-align: center;
 }
 
@@ -201,13 +201,13 @@
     font-weight: 100;
     font-size: 1.5rem;
     margin-top: 3%;
-    margin-left: 10%;
+    margin-left: 3%;
     text-align: center;
 }
 
 .paym-fst {
     margin-top: -5%;
-    margin-left: 10%;
+    /* margin-left: 10%; */
     text-align: center;
 }
 
@@ -215,7 +215,8 @@
     background: rgb(187, 147, 2);
     border: 3px solid rgb(187, 147, 2);
     border-color: rgb(187, 147, 2);
-    margin-left: 10%; 
+    margin-left: 42%; 
+    margin-top: 10%;
 }
 
 .btn-fst:hover {
