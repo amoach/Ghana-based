@@ -6,7 +6,7 @@
 
 .beach-img {
     width: 100vw;
-    height: 80vw;
+    height: 100vw;
 }
 
 .festival-img {
@@ -61,7 +61,7 @@
 .festival-btn {
   position: absolute;
   top: 45%;
-  left: 46%;
+  left: 43%;
   background-color: rgba(0,0,0, 0.6);
   color: rgba(255, 255, 255);
   font-size: 2vw;
@@ -72,7 +72,7 @@
 .elmina-btn {
   position: absolute;
   top: 45%;
-  left: 46%;
+  left: 43%;
   background-color: rgba(0,0,0, 0.6);
   color: rgba(255, 255, 255);
   font-size: 2vw;
@@ -110,7 +110,7 @@
     text-align: center;
     margin-top: 20%;
     margin-bottom: 43%;
-    margin-left: 26%;
+    margin-left: 24%;
     color: rgb(187, 147, 2);
     white-space: nowrap;
 }
@@ -151,7 +151,7 @@
 }
 
 .img-fst1 {
-    width: 110%;
+    width: 115%;
     height: 85%;
     margin-left: -13%;
     margin-top: 10%;
