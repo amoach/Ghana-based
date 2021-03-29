@@ -85,23 +85,6 @@
     border-color: #ffffff;
 }
 
-.social-links li a i {
-    width: 250%;
-    height: 350%;
-    padding: 10px 0;
-    border-radius: 50%;
-    border: 1px solid rgb(187, 147, 2);
-    font-size: 1rem;
-    text-align: center;
-    color: white;
-    background: rgb(187, 147, 2);
-}
-
-.social-links li a i:hover {
-    background: #ffdcb1;
-    color: rgb(187, 147, 2);
-}
-
 .about-bg {
     background-image: url("../images/palms.jpg");
 }
@@ -124,10 +107,12 @@
     font-weight: 150;
     font-size: 6vw;
     color: #fff;
+    margin-left: -4%;
 }
 
 .friends-img {
     margin-top: 3%;
+    margin-left: -4%;
 }
 
 .about-us {
@@ -149,15 +134,6 @@
     white-space: nowrap;
     margin-top: 20%;
     margin-left: 2%;
-
-    /* font-family: "Roboto", sans-serif;
-    font-weight: 100;
-    font-size: 12vw;
-    text-align: center;
-    margin-top: -80%;
-    margin-bottom: 30%;
-    color: #ffdcb1;
-    white-space: nowrap; */
 }
 
 .festival-title {
@@ -343,7 +319,7 @@
     margin-top: 100%;
 }
 
-@media(max-width: 480px) {
+@media(max-width: 775px) {
     .about-title {
         color: black;
     }
@@ -351,4 +327,21 @@
     .contact-info {
         color: black;
     }
+}
+
+@media(max-width: 880px) {
+.img-fst1 {
+    height: 40vw;
+    margin-top: 50%;
+}
+
+.img-fst2 {
+    height: 40vw;
+    margin-top: 77%;
+}
+
+.img-fst3 {
+    height: 40vw;
+    margin-top: 30%;
+}
 }
