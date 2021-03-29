@@ -1,7 +1,7 @@
 # Ghana-based
 ## Code Institute: Milestone Project 1 - Amanda Achampong
 
-![Devices](https://user-images.githubusercontent.com/70138332/105559785-ff0c0a00-5d09-11eb-8d05-c3618c1b6bef.png)
+![Devices](https://ibb.co/df4TjCD)
 
 ---
 Ghana based. Experiences is a booking agent specifically for Ghana, in order for those wanting to book things to do
