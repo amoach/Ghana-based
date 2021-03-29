@@ -146,12 +146,12 @@
     text-align: center;
     white-space: nowrap;
     margin-top: 20%;
-    margin-left: 40%;
+    margin-left: 23%;
 }
 
 .festival-title {
     margin-top: 20%;
-    /* margin-left: 130%; */
+    /* margin-left: 95%;  */
     font-weight: 150;
 }
 
@@ -164,14 +164,15 @@
 
 .headline-fst {
     margin-top: 9%;
-    margin-left: -3%;
+    /* margin-left: -1%; */
     font-weight: 100;
     width: 110%;
     text-align: center;
+    width: 100%;
 }
 
 .about-fst {
-    width: 103%;
+    width: 100%;
     /* margin-left: 2%; */
     margin-top: 5%;
     text-align: center;
@@ -189,6 +190,7 @@
     margin-top: 5%;
     margin-left: 3%;
     text-align: center;
+    width: 100%;
 }
 
 .itinerary-fst {
@@ -300,5 +302,5 @@
 }
 
 .contact-social-links {
-    margin-top: 200%;
+    margin-top: 100%;
 }
